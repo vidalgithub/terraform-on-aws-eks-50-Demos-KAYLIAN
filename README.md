@@ -210,7 +210,7 @@
 - [Sample Questions](https://learn.hashicorp.com/tutorials/terraform/associate-questions?in=terraform/certification)
 
 
-
+## MY COMMENTS: AWESOME MATERIAL
 
 
 
